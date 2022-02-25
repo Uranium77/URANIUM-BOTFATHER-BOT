@@ -21,14 +21,14 @@
 
 ## Sᴜᴘᴘᴏʀᴛ 
                           
-<a href="https://t.me/savage_spam_bots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Savage_Bot_Updates"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/RAJPUTANA_EMPIRE"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/RAJPUTANA_UPDATES"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## Oᴡɴᴇʀ -[Sᴀᴠᴀɢᴇ Sᴀᴍᴇᴇʀ](https://t.me/OFFICIAL_SAMEER)
+## Oᴡɴᴇʀ -[RAJPUTANA](https://t.me/RAJPUTANA_EMPIRE)
 -------------------------------------------------
 
 ## 🚀 Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Uranium77/URANIUM-BOTFATHER-BOT.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Uranium77/RAJPUTANA-BOTFATHER-BOT.git)
 ------------------------------------------------
 
